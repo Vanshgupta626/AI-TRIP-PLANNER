@@ -27,7 +27,7 @@ Deployment=Vercel
 https://ai-trip-planner-six-ivory.vercel.app/
 
 #Local Setup
-1.git clone https://github.com/Utkarsh102002/ai-trip-planner.git
+1.git clone https://github.com/Vanshgupta626/ai-trip-planner.git
 2.cd ai-trip-planner
 3.npm install
 4.npm run dev
@@ -60,5 +60,5 @@ Pull requests are welcome!
 MIT License
 #Contact
 Utkarsh Shrivastava
-GitHub: https://github.com/Utkarsh102002  
-Email: utkarshshrivastava102002@gmail.com
+GitHub: https://github.com/Vanshgupta626  
+Email: vanshg6532@gmail.com
